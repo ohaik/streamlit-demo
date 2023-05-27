@@ -11,7 +11,7 @@ apps = [
     {"func": home.app, "title": "Home", "icon": "house"},
     {"func": heatmap.app, "title": "Heatmap", "icon": "map"},
     {"func": upload.app, "title": "Upload", "icon": "cloud-upload"},
-    {"func": vector.app, "title": "vector", "icon": "bounding-box"}
+    {"func": vector.app, "title": "vector", "icon": "bounding-box"},
 
 ]
 
